@@ -1,6 +1,6 @@
    HI 👋, I'M Mubarak
 - 🔭 I’m currently working with React Html Css Javascript
-- 📫 How to reach me mudet04@gmail.com
+- 📫 How to reach me odetundemubarak04@gmail.com
 
 
 
