@@ -2,14 +2,15 @@
 🛠️ Technologies
 I work primarily with:
 
-React
-ThreeJs
-JavaScript
-HTML
-CSS
+- React
+- ThreeJs
+- JavaScript
+- HTML
+- CSS
 
 🔭 Current Focus
 I'm currently working on expanding my React skills and building responsive web applications.
+
 📫 Contact
 Feel free to reach out to me at odetundemubarak04@gmail.com
 
