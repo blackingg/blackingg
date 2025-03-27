@@ -6,8 +6,8 @@ A web developer focused on creating engaging frontends.
 
 I work primarily with:
 - React
-- ThreeJs
 - JavaScript
+- ThreeJs
 - HTML
 - CSS
 
