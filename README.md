@@ -8,7 +8,6 @@ const mubarak = {
   location: "Lagos, Nigeria 🇳🇬",
   role: "Frontend Developer",
   passion: "Crafting engaging digital experiences",
-  workingHours: "Best debugging at 2 AM 🦉",
   currentVibes: ["Wizkid", "Don Toliver", "Afrobeats 🎵"],
   philosophy: "At the intersection of design and technology"
 };
