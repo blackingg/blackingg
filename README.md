@@ -1,36 +1,19 @@
 # 👋 Hi there! I'm Mubarak
 
-A web developer focused on creating engaging frontends.
+Frontend Developer
 
-## 🛠️ Technologies
+##🌟 About Me
+.  🛠 Tech Stack:
+  Frontend: React, Next.js, ThreeJs, React Native (Expo)
 
-I work primarily with:
-- React
-- JavaScript
-- ThreeJs
-- HTML
-- CSS
+.  🌍 What I Do: I'm passionate about crafting engaging digital experiences at the intersection of design and technology. Whether building responsive web applications, creating intuitive user interfaces, or exploring modern frameworks and performance optimization, I'm  always excited to bring ideas to life.
+.  🧠 Fun Fact: I'm not just about code—I'm a night owl 🦉 who does my best debugging at 2 AM with Wizkid and Don Toliver keeping me company 🎵
 
-## 🔭 Current Focus
+##🤝 Let's Connect!
+  Hit me up if you want to collaborate, need a frontend buddy, or just want to chat about tech while bumping some Afrobeats!
 
-I'm currently working on expanding my React skills and building responsive web applications.
+* **Portfolio**: [My Work](https://mubarakodetunde-portfolio.netlify.app/) 🚧
+* **LinkedIn**: [Connect with me]((https://www.linkedin.com/in/mubarak-odetunde-258494236/))
 
-## 👨‍💻 About Me
-
-I'm a passionate frontend developer with a keen eye for creating clean, intuitive user interfaces. My journey in web development began with HTML and CSS, and I've since expanded my skills to include JavaScript and React.
-
-I enjoy solving complex problems through code and am constantly learning new technologies to improve my development workflow. My goal is to build applications that not only function flawlessly but also provide exceptional user experiences.
-
-When I'm not coding, I enjoy exploring new web design trends, contributing to open-source projects, and mentoring aspiring developers. I believe in writing clean, maintainable code and value collaboration with other developers to create innovative solutions.
-
-I'm currently looking to collaborate on projects that challenge me and help me grow as a developer. Whether it's a simple website or a complex web application, I'm ready to bring my skills and enthusiasm to the table.
-
-## 🤝 Open to Collaborate
-
-I'm always interested in collaborating on interesting projects. Reach out if you'd like to work together!
-
-## 📫 Contact
 
 Feel free to reach out to me at odetundemubarak04@gmail.com
-
-![](https://raw.githubusercontent.com/blackingg/newly-created/master/generated/overview.svg#gh-dark-mode-only)![](https://raw.githubusercontent.com/blackingg/newly-created/master/generated/overview.svg#gh-light-mode-only)            ![](https://raw.githubusercontent.com/blackingg/newly-created/master/generated/languages.svg#gh-dark-mode-only)![](https://raw.githubusercontent.com/blackingg/newly-created/master/generated/languages.svg#gh-light-mode-only)
