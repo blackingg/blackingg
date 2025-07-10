@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm Mubarak
-**Frontend Developer**
+Frontend Developer
 
 ## 🌟 About Me
 
