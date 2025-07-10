@@ -21,7 +21,9 @@ const mubarakInfo = {
     frontend: ["React", "Next.js", "ThreeJs", "React Native (Expo)"]
   },
   
-  whatIDo: "Crafting engaging digital experiences at the intersection of design and technology. Building responsive web applications, creating intuitive user interfaces, exploring modern frameworks and performance optimization.",
+  whatIDo: "Crafting engaging digital experiences at the intersection of design and technology.
+            Building responsive web applications, creating intuitive user interfaces, exploring
+            modern frameworks and performance optimization.",
   
   funFact: "I'm a night owl 🦉 who does my best debugging at 2 AM with Wizkid and Don Toliver keeping me company 🎵",
   
