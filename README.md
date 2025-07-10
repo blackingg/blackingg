@@ -17,7 +17,8 @@ const mubarak = {
 ```javascript
 const mubarakInfo = {
   techStack: {
-    frontend: ["React", "Next.js", "ThreeJs", "React Native (Expo)"]
+    frontend: ["React", "Next.js", "ThreeJs", "React Native (Expo)"],
+    styling: ["Tailwind CSS", "CSS3", "GSAP"],
   },
   
   whatIDo: `Crafting engaging digital experiences at the intersection of design and technology.
