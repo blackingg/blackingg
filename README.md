@@ -5,7 +5,6 @@ Frontend Developer
 
 ```javascript
 const mubarak = {
-  location: "Lagos, Nigeria 🇳🇬",
   role: "Frontend Developer",
   passion: "Crafting engaging digital experiences",
   currentVibes: ["Wizkid", "Don Toliver", "Afrobeats 🎵"],
