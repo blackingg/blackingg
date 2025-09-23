@@ -39,6 +39,6 @@ const mubarakInfo = {
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/mubarak-odetunde-258494236/)
 - **Email**: odetundemubarak04@gmail.com
 
-![Languages](./github-metrics.svg)
-
-
+![](https://github-readme-stats.vercel.app/api?username=blackingg&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=blackingg&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=blackingg&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
