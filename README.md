@@ -39,5 +39,6 @@ const mubarakInfo = {
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/mubarak-odetunde-258494236/)
 - **Email**: odetundemubarak04@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackingg&layout=compact&theme=tokyonight)
+![Languages](./github-metrics.svg)
+
 
