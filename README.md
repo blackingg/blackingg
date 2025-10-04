@@ -39,4 +39,4 @@ const mubarakInfo = {
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/mubarak-odetunde-258494236/)
 - **Email**: odetundemubarak04@gmail.com
 
-![](https://github-readme-stats-five-gules-28.vercel.app/api/top-langs/?username=blackingg&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-five-gules-28.vercel.app/api/top-langs/?username=blackingg&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=javascript)
