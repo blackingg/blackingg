@@ -1,30 +1,3 @@
-<h1 align="center" style="margin-top: 2rem; margin-bottom: 2rem;">
-  <span style="
-    display: inline-block;
-    font-size: 4.5rem;
-    color: #E3B45C;
-    font-weight: 900;
-    letter-spacing: 4px;
-    text-shadow: 0 0 8px rgba(227, 180, 92, 0.7), 0 0 16px rgba(227, 180, 92, 0.4);
-    position: relative;
-  ">
-    THE BOY WHO PLAYED THE HARP
-    <span style="
-      content: '';
-      position: absolute;
-      bottom: -0.5em;
-      left: 0;
-      width: 100%;
-      height: 4px;
-      background: #E3B45C;
-      opacity: 0.6;
-      transform: scaleX(0.8);
-    "></span>
-  </span>
-</h1>
-
-
-
 # 👋 Hi there! I'm Mubarak
 Frontend Developer
 
