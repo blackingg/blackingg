@@ -33,6 +33,14 @@ const mubarakInfo = {
 };
 ```
 
+<h1 align="center">
+  🎵 <span style="font-size: 4rem; color: #7C3030; font-weight: 900; letter-spacing: 2px;">
+    THE BOY WHO PLAYED THE HARP
+  </span> 🎵
+</h1>
+
+
+
 ## 🤝 Let's Connect!
 
 - **Portfolio**: [My Work](https://mubarakodetunde-portfolio.netlify.app/) 🚧
