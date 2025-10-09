@@ -26,9 +26,10 @@ const mubarakInfo = {
   funFact: `I'm a night owl 🦉 who does my best debugging at 2 AM with Wizkid and Don Toliver keeping me company 🎵`,
   
   openTo: [
-    "Collaboration", 
-    "Frontend buddy conversations", 
-    "Tech chats while bumping Afrobeats 🎵"
+    "Teaming up on fun projects", 
+    "Frontend convos & code jams", 
+    "Learning Three.js with some Afrobeats in the background",
+    "Putting you on the best tracks you’ve never heard — trust my taste 🔥"
   ]
 };
 ```
