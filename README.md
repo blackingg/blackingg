@@ -29,7 +29,7 @@ const mubarakInfo = {
     "Teaming up on fun projects", 
     "Frontend convos & code jams", 
     "Learning Three.js with some Afrobeats in the background",
-    "Putting you on the best tracks you’ve never heard — I’ve got good taste, trust me 🔥"
+    "Putting you on the best tracks you’ve never heard — I’ve got good taste, trust me "
   ]
 };
 ```
