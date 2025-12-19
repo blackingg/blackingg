@@ -7,7 +7,7 @@ Frontend Developer
 const mubarak = {
   role: "Frontend Developer",
   passion: "Crafting engaging digital experiences",
-  currentVibes: ["Wizkid", "Don Toliver", "Afrobeats 🎵"],
+  currentVibes: ["The Weeknd", "Don Toliver", "Blaqbonez"],
   philosophy: "At the intersection of design and technology"
 };
 ```
@@ -27,8 +27,8 @@ const mubarakInfo = {
   
   openTo: [
     "Teaming up on fun projects", 
-    "Frontend convos & code jams", 
-    "Learning Three.js with some Afrobeats in the background",
+    "Nerd convos & code jams", 
+    "Learning Three.js with good music in the background",
     "Putting you on the best tracks you’ve never heard — I’ve got good taste, trust me "
   ]
 };
