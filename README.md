@@ -5,7 +5,7 @@ Frontend Developer
 
 ```javascript
 const mubarak = {
-  role: "Frontend Developer",
+  role: "Frontend Engineer",
   passion: "Crafting engaging digital experiences",
   currentVibes: ["Wizkid", "The Weeknd", "Don Toliver", "J.Cole", "Blaqbonez"],
   philosophy: "At the intersection of design and technology"
