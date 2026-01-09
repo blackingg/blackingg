@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm Mubarak
-Frontend Developer
+Frontend Engineer
 
 ## 🌟 About Me
 
@@ -14,10 +14,21 @@ const mubarak = {
 
 ```javascript
 const mubarakInfo = {
-  techStack: {
-    frontend: ["React", "Next.js", "ThreeJs", "React Native (Expo)"],
-    styling: ["Tailwind CSS", "CSS3", "GSAP"],
-  },
+  skills: [
+    "Typescript",
+    "React",
+    "Next.js",
+    "React Native",
+    "Three.js",
+    "React Three Fiber",
+    "Framer Motion",
+    "GSAP",
+    "Tailwind CSS",
+    "TanStack Query",
+    "Redux",
+    "Zustand",
+    "Supabase",
+  ],
   
   whatIDo: `Crafting engaging digital experiences at the intersection of design and technology.
             Building responsive web applications, creating intuitive user interfaces, exploring
