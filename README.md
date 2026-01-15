@@ -47,7 +47,7 @@ const mubarakInfo = {
 
 ## 🤝 Let's Connect!
 
-- **Portfolio**: [My Work](https://mubarakodetunde-portfolio.vercel.app/) 🚧
+- **Portfolio**: [My Work](https://www.whoisblxck.xyz/) 🚧
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/mubarak-odetunde-258494236/)
 - **Email**: odetundemubarak04@gmail.com
 
