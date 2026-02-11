@@ -47,8 +47,8 @@ const mubarakInfo = {
 
 ## 🤝 Let's Connect!
 
-- **Portfolio**: [My Work](https://www.whoisblxck.xyz/) 🚧
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/mubarak-odetunde-258494236/)
+- **Portfolio**: [www.whoisblxck.xyz](https://www.whoisblxck.xyz/) 🚧
+- **LinkedIn**: [ODETUNDE MUBARAK](https://www.linkedin.com/in/mubarak-odetunde-258494236/)
 - **Email**: odetundemubarak04@gmail.com
 
 
