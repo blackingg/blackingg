@@ -11,9 +11,8 @@ const mubarak = {
   focus: "Where design, motion, and 3D web engineering meet",
    writing: "Technical deep-dives, 3D experiments, and the odd career story — on my blog",
 };
-```
 
-```javascript
+
 const stack = {
   languages: ["TypeScript", "JavaScript"],
   core: ["React", "Next.js", "React Native"],
@@ -21,9 +20,8 @@ const stack = {
   state: ["Redux Toolkit", "TanStack Query", "Zustand"],
   styling: ["Tailwind CSS"],
 };
-```
 
-```javascript
+
 const whatIDo = `
   I build production-grade React/Next.js applications by day, and spend my nights
   pushing what's possible in the browser with Three.js, WebGL, and shaders. I write
