@@ -1,55 +1,52 @@
-# 👋 Hi there! I'm Mubarak
-Frontend Engineer
+# 👋 Hey, I'm Mubarak
+
+Creative Frontend Engineer — building interactive, 3D, and animation-driven web experiences.
 
 ## 🌟 About Me
 
 ```javascript
 const mubarak = {
-  role: "Frontend Engineer",
-  passion: "Crafting engaging digital experiences",
-  currentVibes: ["Wizkid", "The Weeknd", "Don Toliver", "J.Cole", "Blaqbonez"],
-  philosophy: "At the intersection of design and technology"
+  role: "Creative Frontend Engineer",
+  based: "Lagos, Nigeria",
+  focus: "Where design, motion, and 3D web engineering meet",
+   writing: "Technical deep-dives, 3D experiments, and the odd career story — on my blog",
 };
 ```
 
 ```javascript
-const mubarakInfo = {
-  skills: [
-    "Typescript",
-    "React",
-    "Next.js",
-    "React Native",
-    "Three.js",
-    "React Three Fiber",
-    "Framer Motion",
-    "GSAP",
-    "Tailwind CSS",
-    "TanStack Query",
-    "Redux",
-    "Zustand",
-    "Supabase",
-  ],
-  
-  whatIDo: `Crafting engaging digital experiences at the intersection of design and technology.
-            Building responsive web applications, creating intuitive user interfaces, exploring
-            modern frameworks and performance optimization.`,
-  
-  funFact: `I'm a night owl 🦉 who does my best debugging at 2 AM with Wizkid and Don Toliver keeping me company 🎵`,
-  
-  openTo: [
-    "Teaming up on fun projects", 
-    "Nerd convos & code jams", 
-    "Learning Three.js with good music in the background",
-    "Putting you on the best tracks you’ve never heard — I’ve got good taste, trust me "
-  ]
+const stack = {
+  languages: ["TypeScript", "JavaScript"],
+  core: ["React", "Next.js", "React Native"],
+  creative: ["Three.js", "React Three Fiber", "GLSL Shaders", "GSAP", "Framer Motion"],
+  state: ["Redux Toolkit", "TanStack Query", "Zustand"],
+  styling: ["Tailwind CSS"],
 };
 ```
 
-## 🤝 Let's Connect!
+```javascript
+const whatIDo = `
+  I build production-grade React/Next.js applications by day, and spend my nights
+  pushing what's possible in the browser with Three.js, WebGL, and shaders. I write
+  about most of it in a narrative voice over on my blog.
+`;
 
-- **Portfolio**: [www.whoisblxck.xyz](https://www.whoisblxck.xyz/) (🚧)
-- **LinkedIn**: [ODETUNDE MUBARAK](https://www.linkedin.com/in/mubarak-odetunde-258494236/)
+const currentVibes = ["Wizkid", "The Weeknd", "Don Toliver", "J. Cole", "Blaqbonez"];
+
+const funFact = `Night owl 🦉 — best debugging happens at 2AM with good music on.`;
+```
+
+## 🤝 Open To
+
+- Remote frontend / creative-dev roles
+- Collabs on interactive, WebGL, or generative 3D projects
+- Nerding out over the future of the internet, or over music — I've got opinions on both
+
+## 🔗 Find Me
+
+- **Portfolio**: [whoisblxck.xyz](https://www.whoisblxck.xyz/)
+- **Blog**: [whoisblxck.xyz/blog](https://www.whoisblxck.xyz/blog)
+- **LinkedIn**: [Mubarak Odetunde](https://www.linkedin.com/in/mubarak-odetunde-258494236/)
+
 - **Email**: odetundemubarak04@gmail.com
-
 
 ![](https://github-readme-stats-five-gules-28.vercel.app/api/top-langs/?username=blackingg&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
