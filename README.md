@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Mubarak
 
-Creative Frontend Engineer — building interactive, 3D, and animation-driven web experiences.
+Frontend Engineer — building interactive, 3D, and animation-driven experiences.
 
 ## 🌟 About Me
 
@@ -17,8 +17,6 @@ const stack = {
   languages: ["TypeScript", "JavaScript"],
   core: ["React", "Next.js", "React Native"],
   creative: ["Three.js", "React Three Fiber", "GLSL Shaders", "GSAP", "Framer Motion"],
-  state: ["Redux Toolkit", "TanStack Query", "Zustand"],
-  styling: ["Tailwind CSS"],
 };
 
 
